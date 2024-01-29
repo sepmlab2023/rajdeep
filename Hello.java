@@ -1,5 +1,5 @@
 class Hello
 public static void main(String args[])
 {
-	sytem.out.println("hello");
+	sytem.out.println("hello world");
 }
